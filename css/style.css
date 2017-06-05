@@ -1,0 +1,92 @@
+body{
+  font-family: "Product Sans";
+}
+
+.input-group-addon{
+  background-color: #440063 !important;
+  border: none;
+}
+
+.fa{
+  color: #fff;
+}
+
+.navbar{
+  background: #fff !important;
+  margin-bottom: 0 !important;
+  box-shadow: none !important;
+}
+
+.navbar-brand{
+  height: auto !important;
+}
+
+.align-vertical{
+  vertical-align: middle !important;
+}
+
+.navbar-header{
+  height: auto;
+}
+
+.btn-system{
+  background: #00CCBC !important;
+  color: #fff !important;
+  text-shadow: none !important;
+  border-color: #00CCBC !important;
+}
+
+.dropdown-toogle{
+  background: #fff !important;
+  box-shadow: none !important;
+  border: none !important;
+}
+
+#hero{background: #00ccbc;}
+
+.p20h{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.p30h{
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.big{
+  font-size: 2em;
+}
+
+.linkPanino{
+  font-family: 'Arima Madurai';
+  font-weight: bold;
+  color: #00ccbc;
+}
+
+hgroup{
+  color: #fff !important;
+  letter-spacing: 1px;
+}
+
+#img1{
+  height: 150px;
+  background-image: url("../img/1.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#img2{
+  height: 150px;
+  background-image: url("../img/2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.call-to-action a{
+  font-size: 2em;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  font-family: "Francois One", "Arial", sans-serif;
+}
